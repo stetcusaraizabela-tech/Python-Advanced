@@ -57,3 +57,4 @@ for day in range(1, 365):
     if not sara.alive:
         break
     sara.live(day)
+    #s
